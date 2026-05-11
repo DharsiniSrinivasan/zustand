@@ -30,7 +30,7 @@ You can try a live demo [here](https://codesandbox.io/s/dazzling-moon-itop4).
 
 Zustand is available as a package on NPM for use:
 
-```bash
+```bashscx
 # NPM
 npm install zustand
 # Or, use any package manager of your choice.
